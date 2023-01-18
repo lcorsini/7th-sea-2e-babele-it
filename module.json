@@ -1,0 +1,37 @@
+{
+  "name": "7th-sea-2e-babele-it",
+  "title": "7th Sea 2ed Babele (Italian)",
+  "description": "Traduzione del sistema di gioco di 7th Sea 2Ed di Detailing-the-Realm/svnsea2e in Italiano tramite Babele - 7th Sea 2Ed (Detailing-the-Realm/svnsea2e) Italian translation using Babele",
+  "version": "0.1.0",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "Luca Corsini (lcorsini)",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    },
+    {
+      "name": "svnsea2e",
+      "type": "system",
+      "version": "3.2.0"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "system": "svnsea2e",
+  "systemVersion": "3.2.0",
+  "url": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it",
+  "manifest": "https://raw.githubusercontent.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/master/module.json",
+  "download": "https://github.com/AnthonyLWolf/call-of-cthulhu-7th-babele-it/archive/master.zip"
+}

@@ -1,0 +1,65 @@
+{
+	"label": "Esempi Oggetti",
+	"entries": [
+		{
+			"id": "1920's Setup Example",
+			"name": "Esempio Setup Anni Venti",
+			"description": "<p>Configurazione standard per un personaggio degli Anni Venti.</p>\n<p>&nbsp;</p>"
+		},
+		{
+			"id": "Archetype Example",
+			"name": "Esempio Archetipo",
+			"description": null
+		},
+		{
+			"id": "Death ray (prototype)",
+			"name": "Raggio di Morte (Prototipo)",
+			"description": ""
+		},
+		{
+			"id": "Experimental weapon",
+			"name": "Arma Sperimentale",
+			"description": "<p>Descrizione dell'Arma</p>\n<p>Selezionare 'Area di Effetto' attiverà 3 diversi tipi di danno e portata</p>\n<p>Selezionare 'Automatica' permetterà di selezionare 2 diverse skill per l'arma</p>\n<p>Selezionare 'Speciale' attiverà il campo di testo speciale</p>\n<p>Nella scheda di combattimento, se le icone hanno uno sfondo rosso, significa non è stata selezionata alcuna abilità per quell'arma</p>\n<p>Modifica l'arma e seleziona l'abilità corretta.</p>"
+		},
+		{
+			"id": "Occupation Example",
+			"name": "Esempio Professione",
+			"description": null
+		},
+		{
+			"id": "Punch",
+			"name": "Pugno",
+			"description": ""
+		},
+
+		{
+			"id": "Plan to enslave humanity",
+			"name": "Piano per schiavizzare l'umanità",
+			"description": ""
+		
+		},
+		{
+			"id": "Very mean sidekick",
+			"name": "Spalla molto cattiva",
+			"description": ""
+		
+		},
+		{
+			"id": "Orders",
+			"name": "Ordini",
+			"description": ""
+		
+		},
+		{
+			"id": "Secret documents",
+			"name": "Documenti segreti",
+			"description": ""
+		
+		},
+		{
+			"id": "Pile of junk",
+			"name": "Pila di spazzatura",
+			"description": ""
+		}
+	]
+}
